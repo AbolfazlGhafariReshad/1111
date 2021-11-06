@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App2</string>
+    <string name="hintname">نام</string>
+    <string name="hintfirst">نام خانوادگی</string>
+    <string name="btnsub">ثبت نام</string>
+    <string name="textview">سلام</string>
+    <string name="textview4">عزیز به سامانه خوش آمدید</string>
+</resources>
